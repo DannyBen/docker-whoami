@@ -6,8 +6,12 @@ provided in the `MESSAGE` environment variable.
 
 It is intended as a debugging tool for building docker stacks.
 
+---
+
 - [View on DockerHub][1]
 - [View on Github][2]
+
+---
 
 Usage
 --------------------------------------------------
