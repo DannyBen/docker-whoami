@@ -28,8 +28,6 @@ $ docker run --rm -it \
 ### With docker-compose
 
 ```yaml
-version: '3'
-
 services:
   web:
     image: dannyben/whoami

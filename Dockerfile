@@ -1,4 +1,4 @@
-FROM alpine:3.9
+FROM alpine
 
 ENV TERM=linux
 ENV PS1 "\n\n>> whoami \W \$ "
